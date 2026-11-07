@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/asta-resource-repo/commit/8ab06f1ee12b9cf6dfad7f7e116e10df3047f2d8",
       "git:hexsha": "8ab06f1ee12b9cf6dfad7f7e116e10df3047f2d8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T20:58:41.578411+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/asta-resource-repo/commit/5ddfecfa24f3c1d4182c6ec176f84c741f7a1cac",
