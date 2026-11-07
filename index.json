@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "asta-resource-repo",
+  "versions": [
+    {
+      "commit": "8ab06f1ee12b9cf6dfad7f7e116e10df3047f2d8",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:58:41.578884+00:00"
+    }
+  ]
+}
